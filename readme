@@ -1,2 +1,9 @@
-To verify the effectiveness of the proposed method, we collect and release a large-scale tunnel hazmat vehicle Re-ID dataset named VisInt-THV-ReID (The dataset is open-sourced at: https://github.com/jialei-bjtu/VisInt-VHM.git, 1 February 2022) and the details are as follows.
-To ensure the usability and reliability of the collected data,  we deployed 4 monitoring cameras for research in Taijia Expressway Linxian No.3 tunnel in Shanxi province in China. The monitoring cameras provide high-definition video data of 6 million pixels, and the installation spacing is 300 meters. We collected the video of three days from November 26 to 28, 2020, and recorded the video data of 30 hours from 10 : 00 to 20 : 00 every day. We annotated 10048 pictures taken by 865 hazmat vehicles in 4 cameras, and annotated the spatial position, speed and time stamp information of vehicles in the tunnel. We release a large-scale tunnel hazmat vehicle Re-ID dataset named VisInt-THV-ReID. To the best of our knowledge, this is the first open-sourced hazmat vehicle Re-ID dataset. The sample dataset is shown in Fig. 6.
+   We collect and release a large-scale tunnel hazmat vehicle Re-ID dataset named VisInt-THV-ReID
+(The dataset is open-sourced at: https://github.com/jialei-bjtu/VisInt-VHV-ReID.git, 4 May 2022). To ensure the usability and reliability of the collected data,  
+we deployed 4 monitoring cameras for research in Taijia Expressway 
+Linxian No.3 tunnel in Shanxi province in China. The monitoring cameras provide high-definition video data of 6 million pixels, and 
+the installation spacing is 300 meters. We collected the video of three days from November 26 to 28, 2021, and recorded the video data 
+of 30 hours from 10 : 00 to 20 : 00 every day. We annotated 10048 pictures taken by 865 hazmat vehicles in 4 cameras, and annotated 
+the spatial position, speed and time stamp information of vehicles in the tunnel. We release a large-scale tunnel hazmat vehicle 
+Re-ID dataset named VisInt-THV-ReID. To the best of our knowledge, this is the first open-sourced hazmat vehicle Re-ID dataset. 
+The sample dataset is shown in Fig.1

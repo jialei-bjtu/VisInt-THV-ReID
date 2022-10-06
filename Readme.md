@@ -7,5 +7,5 @@ The sample dataset is shown in Fig.1
 The download link of the dataset is as follows:
 Baidu network disk：https://pan.baidu.com/s/1Sqpp5uBHS0oCOmDKzeEf5w key：1234
 
-[Image text](https://raw.githubusercontent.com/jialei-bjtu/VisInt-THV-ReID/main/fig5.jpg)
+![image](https://raw.githubusercontent.com/jialei-bjtu/VisInt-THV-ReID/main/fig5.jpg)
 Fig.1
